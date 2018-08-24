@@ -1,0 +1,413 @@
+__ABILITIES_IN_GENERAL__
+- Types: Talents, Skills, Knowledges
+
+__TALENTS_IN_GENERAL__
+- 1dot_label: Novice
+- 2dot_label: Practiced
+- 3dot_label: Competent
+- 4dot_label: Expert
+- 5dot_label: Master
+
+__ALERTNESS__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__ATHLETICS__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__AWARENESS__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__BRAWL__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__DODGE__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__EXPRESSION__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__INTIMIDATION__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__LEADERSHIP__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__STREETWISE__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__SUBTERFUGE__
+- Type: Talent
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__SKILLS_IN_GENERAL__
+- 1dot_label: Novice
+- 2dot_label: Practiced
+- 3dot_label: Competent
+- 4dot_label: Expert
+- 5dot_label: Master
+
+__CRAFTS__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__DRIVE__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__ETTIQUETTE__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__FIREARMS__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__MEDITATION__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__MELEE__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__PERFORMANCE__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__STEALTH__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__SURVIVAL__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__TECHNOLOGY__
+- Type: Skill
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__KNOWLEDGES_IN_GENERAL__
+- 1dot_label: Student
+- 2dot_label: College
+- 3dot_label: Masters
+- 4dot_label: Doctorate
+- 5dot_label: Scholar
+
+__ACADEMICS__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__COMPUTERS__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__COSMOLOGY__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__ENIGMAS__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__INVESTIGATION__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__LAW__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__LINGUISTICS__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__MEDICINE__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__OCCULT__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__SCIENCE__
+- Type: Knowledge
+- Flavor_text:
+- Description:
+- Specialties:
+- Possessed by: 
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:

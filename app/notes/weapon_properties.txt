@@ -1,0 +1,9 @@
+***Weapon-Specific Properties***
+Attack Dice Stat
+Attack Dice Modifier
+Damage Dice Stat
+Damage Dice Modifier
+Do extra attack successes add to damage dice? (aka is it a firearm?)
+Concealment Category
+Difficulty
+Type (Melee/Firearm/Other)

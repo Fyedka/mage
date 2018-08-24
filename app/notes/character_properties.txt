@@ -1,0 +1,34 @@
+*** Character Basic Properties ***
+ID (unique to instance)
+Name
+Player
+Chronicle
+Nature
+Essence
+Demeanor
+Tradition
+Concept
+Cabal
+Attributes (and Specializations)
+Abilities (and Specializations)
+Spheres (and Specializations)
+Advantages and Disadvantages
+Backgrounds
+Arete
+Willpower (Max and current)
+Health/Injury Level
+Experience
+Quintessence (and current Tass)
+Paradox
+Equipped Weapon
+Inventory
+Appearance description
+
+
+*** Character Derived Properties ***
+Encumbrance and max encumbrance??
+Current base attack/dmg dice pool (from weapon, injury, strength, dex, etc)
+Current injury dice modifier (from injury)
+Current mobility (from injury/other)
+Available magic effects (from spheres)
+Verbal labels of skill levels, etc (from dots in those areas)

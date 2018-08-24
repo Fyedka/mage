@@ -1,0 +1,35 @@
+- 4 or higher gets a specialty.
+
+__ATTRIBUTES_IN_GENERAL__
+- 0dot_label_revised: Abysmal
+- 1dot_label_revised: Poor
+- 2dot_label_revised: Average
+- 3dot_label_revised: Good
+- 4dot_label_revised: Exceptional
+- 5dot_label_revised: Outstanding
+
+__STRENGTH__
+- Flavor_text_revised: Hot smoke burned Donald’s nostrils and filled his lungs with
+soot. Flamesshotup the curtainsandcast adevilishglow on the walls.
+The fire licked at him like a starved dog. Donald anticipated the bite
+at any moment. He had to get out of the room, but the earthquake
+had dropped a beam over the exit. Just a couple ofinches; that’s all
+he needed to squeeze through the crack. His magic wouldn’t help him
+-he’d used up all his juice surviving the quake. So, Donald wrapped
+his arms around the beam and put his back into it.
+- Description_revised:The points you assign to your character’s Strength Attribute
+represent how much brute strength she has. Strength
+determines how much weight she can lift, carry or push. It
+directs how far she can jump. Furthermore, it expresses how
+hard she can hit another character or object, as well as how
+much damage she can do during hand-to-hand combat. When
+determining the damage your character inflicts with a hand-tohand
+attack, you add her Strength score to your damage dice pool.
+- Specialties_revised: Iron Grip, Powerful Arms, Reserves of strength,
+Fists Like Anvils
+- 0dot_description_revised: Lift 20 lbs.; you're nigh unto dead.
+- 1dot_description_revised: Lift 40 lbs.; you're a wuss.
+- 2dot_description_revised: Lift 100 lbs.; you're Joe Average.
+- 3dot_description_revised: Lift 250 lbs.; you're a Stud.
+- 4dot_description_revised: Lift 400 lbs.; you're an Atlas bodybuilder.
+- 5dot_description_revised: Lift 650 lbs.; you're a freight train.

@@ -1,0 +1,121 @@
+__BACKGROUNDS_IN_GENERAL__
+
+__ALLIES__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__ARCANE__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__AVATAR__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__CONTACTS__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__DESTINY__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__DREAM__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__INFLUENCE__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__LIBRARY__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__MENTOR__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__NODE__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__RESOURCES__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:
+
+__WONDER__
+- Flavor_text:
+- Description:
+- 0dot_description:
+- 1dot_description:
+- 2dot_description:
+- 3dot_description:
+- 4dot_description:
+- 5dot_description:

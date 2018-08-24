@@ -1,0 +1,14 @@
+***Item properties***
+ID (unique to instance)
+Name
+Weight
+Volume
+Dimensions
+Owner
+Description
+Notes
+Class
+Other properties that flag whether/how it interacts with certain traits
+Is it a focus?
+Is it magical?  If so, how many dots and what sphere is the effect from?
+  What kind of effect?
